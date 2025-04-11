@@ -1,7 +1,5 @@
 # PuConnect
 
-Not Designed by Me, but Coded by me in Jetpack Compose.
-
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/Vaibhav-214/PuConnect/assets/94449143/1e24d0b2-0a9c-4541-a640-74778a627887" width="300" height="600" />
     <img src="https://github.com/Vaibhav-214/PuConnect/assets/94449143/4669108b-c17b-4c48-a703-91515c375795" width="300" height="600" />
